@@ -7,8 +7,10 @@ from character_generator import generate_character
 from monster_generator import generate_monster
 from quest_generator import generate_quest
 from dice_roller import roll_dice
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/api/character', methods=['GET'])
 def api_character():
