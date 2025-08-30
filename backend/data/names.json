@@ -1,0 +1,6 @@
+{
+  "Human": ["Klaus", "Anna", "Wilhelm", "Greta"],
+  "Dwarf": ["Durak", "Helga", "Borin", "Grimnir"],
+  "Elf": ["Aelwyn", "Lirael", "Thalion", "Faelar"],
+  "Halfling": ["Milo", "Rosie", "Pip", "Daisy"]
+}

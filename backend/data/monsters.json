@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Orc",
+    "stats": {"WS": 35, "BS": 25, "S": 33, "T": 35, "W": 8, "I": 20, "A": 1, "Dex": 18, "Ld": 18, "Int": 18, "Cl": 18, "WP": 18, "Fel": 10},
+    "abilities": ["Night Vision", "Savage"]
+  },
+  {
+    "name": "Goblin",
+    "stats": {"WS": 25, "BS": 20, "S": 20, "T": 20, "W": 6, "I": 30, "A": 1, "Dex": 24, "Ld": 10, "Int": 10, "Cl": 10, "WP": 10, "Fel": 6},
+    "abilities": ["Sneaky", "Cowardly"]
+  },
+  {
+    "name": "Skaven",
+    "stats": {"WS": 30, "BS": 25, "S": 30, "T": 30, "W": 7, "I": 25, "A": 1, "Dex": 28, "Ld": 14, "Int": 14, "Cl": 14, "WP": 14, "Fel": 8},
+    "abilities": ["Disease Carrier", "Tunnel Fighter"]
+  }
+]
